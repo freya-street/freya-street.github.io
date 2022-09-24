@@ -1,0 +1,6 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+typography.html
+.jekyll-cache/
+.envrc
